@@ -1,0 +1,15 @@
+C:\PetProject\WORKSPACE\WORKSPACE\obj\Debug\net8.0\WORKSPACE.GeneratedMSBuildEditorConfig.editorconfig
+C:\PetProject\WORKSPACE\WORKSPACE\obj\Debug\net8.0\WORKSPACE.AssemblyInfoInputs.cache
+C:\PetProject\WORKSPACE\WORKSPACE\obj\Debug\net8.0\WORKSPACE.AssemblyInfo.cs
+C:\PetProject\WORKSPACE\WORKSPACE\obj\Debug\net8.0\WORKSPACE.csproj.CoreCompileInputs.cache
+C:\PetProject\WORKSPACE\WORKSPACE\obj\Debug\net8.0\WORKSPACE.sourcelink.json
+C:\PetProject\WORKSPACE\WORKSPACE\bin\Debug\net8.0\WORKSPACE.exe
+C:\PetProject\WORKSPACE\WORKSPACE\bin\Debug\net8.0\WORKSPACE.deps.json
+C:\PetProject\WORKSPACE\WORKSPACE\bin\Debug\net8.0\WORKSPACE.runtimeconfig.json
+C:\PetProject\WORKSPACE\WORKSPACE\bin\Debug\net8.0\WORKSPACE.dll
+C:\PetProject\WORKSPACE\WORKSPACE\bin\Debug\net8.0\WORKSPACE.pdb
+C:\PetProject\WORKSPACE\WORKSPACE\obj\Debug\net8.0\WORKSPACE.dll
+C:\PetProject\WORKSPACE\WORKSPACE\obj\Debug\net8.0\refint\WORKSPACE.dll
+C:\PetProject\WORKSPACE\WORKSPACE\obj\Debug\net8.0\WORKSPACE.pdb
+C:\PetProject\WORKSPACE\WORKSPACE\obj\Debug\net8.0\WORKSPACE.genruntimeconfig.cache
+C:\PetProject\WORKSPACE\WORKSPACE\obj\Debug\net8.0\ref\WORKSPACE.dll
